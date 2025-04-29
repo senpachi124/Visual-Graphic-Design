@@ -1,2 +1,3 @@
 # Visual-Graphic-Design
-VGD
+Booth / Kiosk 
+Using Adobe Illustrator | SkecthUp
